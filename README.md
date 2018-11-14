@@ -1,2 +1,2 @@
 # unia-web
-Repositorio en el que crearemos la nueva web de la asociación
+Repositorio de la nueva web de la asociación
