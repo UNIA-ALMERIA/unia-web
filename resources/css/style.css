@@ -1,0 +1,44 @@
+/* ---------------------------------------- */
+/* UNIA WEB STYLE*/
+/* ---------------------------------------- */
+
+a.social-icon:link,a.social-icon:visited,a.social-icon:active {
+    color: #212529;
+}
+a.social-icon:hover{
+    color: #17a2b8;
+}
+
+.footer {
+padding: 1rem;
+background: #343A40;
+
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+-webkit-align-items: center;
+    -ms-flex-align: center;
+        align-items: center;
+-webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+}
+
+.footer .footer-unialogo {
+    color: #8a9597;
+    height: auto;
+    width: auto;
+    max-height: 75px;
+    max-width: 150px; /* you can use % */				
+}
+
+.footer .social-simple{
+word-spacing: 250t;        /* para separacion entre palabras */  
+}
+.footer .icon{
+height: auto;
+width: auto;
+max-height: 40px;
+max-width: 40px; /* you can use % */	
+}
+
