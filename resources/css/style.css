@@ -42,3 +42,36 @@ max-height: 40px;
 max-width: 40px; /* you can use % */	
 }
 
+.flex{
+    display: flex;
+    justify-content: center;
+  align-items: center;
+}	
+
+.cell {
+    width: 50%;
+    height: auto;
+    border-radius: 2px;
+    
+}
+
+.logo-resize{
+    max-height: 55%;
+    max-width: 55%; 
+}
+
+.row-decoration {
+padding: 6px;
+border-radius: 1px;
+margin-bottom: 6px;
+}
+
+.div-center{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon{
+    height:50px;
+}
